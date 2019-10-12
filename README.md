@@ -38,9 +38,6 @@ The team task is to train and fine-tune the model with Kaggle ubuntu data and ma
 •	temperature
 •	top_k 
 
-## colab link
-- https://colab.research.google.com/drive/1z9USq-MDuaSvdSTMgFc_Y_xn2Rx2Y_1Q
-
 # Findings/Observations
 Our findings and report can be accessed by the Report on GPT-2 Analysis written by @Dev_Spyder
 
