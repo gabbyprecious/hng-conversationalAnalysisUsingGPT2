@@ -20,7 +20,7 @@ The team task is to train and fine-tune the model with Kaggle ubuntu data and ma
 
 -	Open on Google colab
 -	importing libraries
--	The ubuntu data was downloaded using the Kaggle api
+-	The ubuntu data was downloaded using the Kaggle api (kaggle json provided for download)
 -	cloning git repo to
 -	installing necessary requirements
 -	Download the model
